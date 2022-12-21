@@ -478,10 +478,10 @@
   "shortcuts": [],
   "lang": "en",
   "display_override": [
-    "browser",
-    "fullscreen",
     "standalone",
+    "fullscreen",
     "minimal-ui",
+    "browser",
     "window-controls-overlay"
   ]
 }
