@@ -5,9 +5,9 @@
   "display": "standalone",
   "name": "pwa-crud",
   "orientation": "any",
-  "scope": "https://pwa-crud.netlify.app/",
   "short_name": "pwa-crud",
-  "start_url": "https://pwa-crud.netlify.app/",
+  "scope": "https://tangerine-otter-347107.netlify.app/",
+  "start_url": "https://tangerine-otter-347107.netlify.app/",
   "theme_color": "#000000",
   "categories": [
     "personalization"
